@@ -97,7 +97,7 @@ This dashboard helps businesses:
 
 ### Sales Dashboard
 
-https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/dbfe5eb4046fba1744fb203dc45cdb7f5884f503/dashbaord%20(screenshots)/sales.dashboard.png
+![image alt](https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/dbfe5eb4046fba1744fb203dc45cdb7f5884f503/dashbaord%20(screenshots)/sales.dashboard.png)
 
 ### Customer Dashboard
 
