@@ -101,7 +101,7 @@ https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/dbfe5eb4046fba1744fb2
 
 ### Customer Dashboard
 
-(https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/d647aef771aef19288b88f276c1ad67d629e3ec4/dashbaord%20(screenshots)/customer%20dashboard.png)
+!(https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/d647aef771aef19288b88f276c1ad67d629e3ec4/dashbaord%20(screenshots)/customer%20dashboard.png)
 
 ---
 
