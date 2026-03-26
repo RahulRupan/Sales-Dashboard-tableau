@@ -1,6 +1,6 @@
-# 📊 Sales & Customer Dashboard (Tableau)
+# Sales & Customer Dashboard (Tableau)
 
-## 🔗 Project Overview
+## Project Overview
 
 This project consists of two interactive dashboards built using **Tableau** to analyze **sales performance** and **customer behavior**.
 
@@ -8,7 +8,7 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 The dashboards answer key business questions:
 
@@ -20,7 +20,7 @@ The dashboards answer key business questions:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Tableau Public** (Data Visualization & Dashboard Design)
 * Data Cleaning & Preparation
@@ -29,9 +29,9 @@ The dashboards answer key business questions:
 
 ---
 
-## 📊 Dashboards
+##  Dashboards
 
-### 📈 Sales Dashboard
+###  Sales Dashboard
 
 Focuses on overall business performance:
 
@@ -42,7 +42,7 @@ Focuses on overall business performance:
 
 ---
 
-### 👥 Customer Dashboard
+###  Customer Dashboard
 
 Focuses on customer behavior and value:
 
@@ -53,7 +53,7 @@ Focuses on customer behavior and value:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Sales show an **overall upward trend** with seasonal fluctuations
 * Certain subcategories generate **high sales but lower profit margins**
@@ -62,7 +62,7 @@ Focuses on customer behavior and value:
 
 ---
 
-## 📈 Business Impact
+##  Business Impact
 
 This dashboard helps businesses:
 
@@ -73,7 +73,7 @@ This dashboard helps businesses:
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 ### 1. Data Preparation
 
@@ -101,11 +101,11 @@ This dashboard helps businesses:
 
 ### Customer Dashboard
 
-!(https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/d647aef771aef19288b88f276c1ad67d629e3ec4/dashbaord%20(screenshots)/customer%20dashboard.png)
+![image alt](https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/d647aef771aef19288b88f276c1ad67d629e3ec4/dashbaord%20(screenshots)/customer%20dashboard.png)
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add advanced KPIs (profit margin, customer lifetime value)
 * Integrate SQL for large-scale data handling
