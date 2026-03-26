@@ -101,7 +101,7 @@ This dashboard helps businesses:
 
 ### Customer Dashboard
 
-(dashbaord (screenshots)/customer dashboard.png)
+(https://github.com/RahulRupan/Sales-Dashboard-tableau/blob/d647aef771aef19288b88f276c1ad67d629e3ec4/dashbaord%20(screenshots)/customer%20dashboard.png)
 
 ---
 
